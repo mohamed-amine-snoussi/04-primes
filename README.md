@@ -12,7 +12,7 @@ Le fichier ``main.py`` contient :
   - elle prend en argument un nombre entier ``p`` ;
   - et retourne un booléen exprimant la vérité de « ``p`` est un nombre premier ». 
   
-- la fonction principale ``main()`` qui fait quelques appels à la fonction secondaire permettant de vérifier son bon fonctionnement .
+- la fonction principale ``main()`` qui fait quelques appels à la fonction secondaire permettant de vérifier son bon fonctionnement 
 
 ## To do
 
